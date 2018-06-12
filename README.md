@@ -1,10 +1,12 @@
 # exds_web
 
-## 1. initial release
+# config
 
-## How to setup environment with conda
+## django
+ python manage.py runserver
+ 
 
-#### https://conda.io/docs/user-guide/tasks/manage-environments.html
-
+## how to setup environment with conda
+https://conda.io/docs/user-guide/tasks/manage-environments.html
 #### use environment.yml in root dir
 
